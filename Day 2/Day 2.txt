@@ -1,0 +1,34 @@
+1. Variable
+2. Constants
+3. Comments
+4. Data Types
+    4.1 Pre-defined data type
+        4.1.1 Integer (int)
+        4.1.2 Character (char) -> 0-9, A-Z, a-z, special Character
+        4.1.3 Boolean   (bool)  -> true/false OR 0/1
+        4.1.4 Floating Point    (float) -> 595.516
+        4.1.5 Double Floating Point (double)
+        4.1.6 Valueless or Void (void)
+
+    4.2 Derived data type
+        4.2.1 Function
+        4.2.2 Array
+        4.2.3 Pointer
+        4.2.4 Reference
+
+    4.3 User-defined data type
+        4.3.1 Structure
+        4.3.2 Union
+        4.3.3 Enumeration
+        4.3.4 Class
+
+Assignment:
+    A. Data type modifiers available in C++ are: 
+        Signed
+        Unsigned
+        Short
+        Long
+
+    B. Macros   
+
+    C. WAP to demonstrate uses of different data types     

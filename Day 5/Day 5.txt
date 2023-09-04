@@ -1,0 +1,43 @@
+Macros: a piece of code that gets replaced by it's name at complie time
+Types of macros: 
+1. Object-Like macros
+2. Chain macros
+3. Multi-line macros
+4. Function-Like macros
+
+Operator: Symbols used to perform vaild operations on operand(s)
+Operands: variables or constants on which operations are performed
+
+Types of Operators:
+1. Arithmetic Operators (2 + 3 = 5)
+    1.1 Unary Operators: operates with single operand
+        1.1.1 Pre increment/decrement
+        1.1.2 Post increment/decrement
+    1.2 Binary Operators: operates with two operand
+2. Relational Operators:    give answer in true/false
+    2.1 >       is LHS is greater than RHS
+    2.2 <       is LHS is smaller than RHS
+    2.3 >=      is LHS is greater than or equal to RHS
+    2.4 <=      is LHS is smaller than or equal to RHS
+    2.5 ==      is LHS is equal to RHS
+    2.6 !=      is LHS is not equal RHS
+3. Logical Operators:    give answer in true/false
+    3.1 &&      LOGICAL AND -> gives true only when both the conditions are true
+    3.2 ||      LOGICAL OR  -> gives true even if anyone of the statement is true
+    3.3 !       LOGICAL NOT -> changes true to false , and false to true
+4. Bitwise Operators
+                23 -> 1 0 1 1 1
+                21 -> 1 0 1 0 1
+(23 & 21):      21    1 0 1 0 1
+(23 | 21):      23 -> 1 0 1 1 1
+(23 ^ 21):      2  -> 0 0 0 1 0
+(~21):          23 -> 0 1 0 1 0************
+
+5. Assignment Operators: will perform the specified operation between LHS and RHS, and finally assign value to LHS
+    a = 10
+    a += 5  -> a = a + 5
+    a -= 5  -> a = a - 5
+    a *= 5  -> a = a * 5
+    a /= 5  -> a = a / 5
+    a %= 5  -> a = a % 5
+6. Ternary or Conditional Operators: (condition) ? <STATEMENT_1> : <STATEMENT_2>

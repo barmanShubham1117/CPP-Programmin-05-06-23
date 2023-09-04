@@ -1,0 +1,13 @@
+Programming Model:
+    1. Procedural Oriented Programming -> Procedures, functions, routines
+        Lang: BASIC, Pascal and C
+            Example: {
+                1-Add/WebDev
+                2-Subs/AppDev(Android, Kotlin, Java)
+                3-Mul/AI
+                4-Div/GameDev(C++, C#)
+            }
+    2. Object Oriented Programming
+            Example: {
+                HR/HR Company
+            }
