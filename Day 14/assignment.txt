@@ -1,0 +1,10 @@
+USER INPUT:
+Employee No. (Numeric)
+Employee First Name (String)
+Employee Last Name (String)
+Employee DOB(dd-MM-YYYY) (String)
+
+OUTPUT:
+Employee No.: _______
+Employee Fullname: _______ (Camel case)
+Employee Age: _______ (Numeric)

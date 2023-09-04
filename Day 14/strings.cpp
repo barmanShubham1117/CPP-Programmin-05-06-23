@@ -19,15 +19,19 @@ int main(int argc, char const *argv[])
     string str, str2;
     // cin>>str;    //it consider white space as the end of the input
 
-    int a;
-    cin>>a;
+    // int a;
+    // cin>>a;
 
+    cout<<"Enter your first name: ";
     getline(cin, str);
-    // getline(cin, str2);
+    cout<<"\nEnter your last name: ";
+    getline(cin, str2);
 
-    cout<<"You entered: "<<str<<endl;
-    // cout<<"You entered: "<<str2<<endl;
+    cout<<"Full Name: "<<str + " " + str2<<endl;
+    
+    // cout<<"First Name: "<<str<<endl;
+    // cout<<"Last Name: "<<str2<<endl;
 
-    cout<<"You entered: "<<a<<endl;
+    // cout<<"You entered: "<<a<<endl;
     return 0;
 }
