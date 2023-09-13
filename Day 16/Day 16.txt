@@ -1,0 +1,5 @@
+FEATURES of OOPs:
+Encapsulation
+Inheritence
+Data Abstraction
+Polymorhism
